@@ -1,0 +1,73 @@
+#title{
+  background-color:#ef4f4f;
+}
+.mona{
+  font-family: 'Ubuntu', sans-serif;
+
+  font-weight:bold;
+  color:white;
+}
+.navbar-brandd{
+    font-family: 'Ubuntu', sans-serif;
+  font-size:2.5rem;
+  color:#f8f1f1;
+  font-weight: bold;
+}
+.navbar{
+  padding:10px 10px 10px 10px;
+}
+.nav-link{
+  color:white;
+  line-height: 2;
+  font-size:1.5rem;
+}
+.row{
+  padding:100px;
+}
+.text{
+  font-weight:bold;
+  color:grey;
+}
+.features-box{
+  text-align: center;
+}
+.icon{
+  padding-bottom: 20px;
+  color:#ec5858;
+}
+.icon:hover{
+  color:#ff8585;
+}
+#testimonials{
+  background-color:#ef4f4f;
+  padding:40px;
+  text-align:center;
+
+}
+.dog-img{
+  width:90px;
+  border-radius:40%;
+  padding-top:20px;
+  padding-bottom:30px;
+}
+.h2-text{
+  color:white;
+  font-weight:bold;
+}
+.iphn{
+  transform:rotate(25deg);
+  width:200px;
+}
+.column{
+  padding:20px;
+}
+.logos{
+  text-align:center;
+  width:20%;
+}
+.carousel-item{
+  float:left;
+}
+.testimonial-text{
+  color:white;
+}
